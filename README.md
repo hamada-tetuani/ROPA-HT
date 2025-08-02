@@ -5,7 +5,7 @@ ROPA HT
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Tienda Global - Ecommerce</title>
+  <title>Tienda HT Global - Ecommerce</title>
   <style>
     body {
       font-family: Arial, sans-serif;
